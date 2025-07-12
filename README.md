@@ -3,10 +3,7 @@
 ###
 
 <p align="center">
-  
-| ![Python](https://skillicons.dev/icons?i=py) | ![Apple](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JetBrains](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg) | ![Bash](https://skillicons.dev/icons?i=bash) | ![Neovim](https://cdn.simpleicons.org/neovim/57A143) | ![Octave](https://cdn.simpleicons.org/octave/0790C0) | ![Discord](https://skillicons.dev/icons?i=discord) |
-|---|---|---|---|---|---|---|---|
-
+  <img src="https://skillicons.dev/icons?i=py,apple,cpp,jetbrains,bash,neovim,octave,discord" height="60" />
 </p>
 
 
