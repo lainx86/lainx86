@@ -3,15 +3,12 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="60" alt="jetbrains logo" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="60" alt="neovim logo" />
-  <img src="https://cdn.simpleicons.org/octave/0790C0" height="60" alt="octave logo" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
+  
+| ![Python](https://skillicons.dev/icons?i=py) | ![Apple](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![JetBrains](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg) | ![Bash](https://skillicons.dev/icons?i=bash) | ![Neovim](https://cdn.simpleicons.org/neovim/57A143) | ![Octave](https://cdn.simpleicons.org/octave/0790C0) | ![Discord](https://skillicons.dev/icons?i=discord) |
+|---|---|---|---|---|---|---|---|
+
 </p>
+
 
 ###
 
