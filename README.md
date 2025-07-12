@@ -2,23 +2,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="60" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="60" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/octave/0790C0" height="60" alt="octave logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="60" alt="jetbrains logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="60" alt="neovim logo" />
+  <img src="https://cdn.simpleicons.org/octave/0790C0" height="60" alt="octave logo" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
 </div>
+
 
 ###
 
