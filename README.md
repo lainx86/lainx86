@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
@@ -11,7 +11,8 @@
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="60" alt="neovim logo" />
   <img src="https://cdn.simpleicons.org/octave/0790C0" height="60" alt="octave logo" />
   <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo" />
-</div>
+</p>
+
 
 
 ###
