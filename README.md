@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,apple,cpp,c,rust,jetbrains,bash,neovim,octave,discord" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,apple,cpp,c,matlab,jetbrains,bash,neovim,octave,discord" height="60" />
 </p>
 
 
