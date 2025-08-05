@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,apple,cpp,c,jetbrains,bash,neovim,octave,julia" height="60" />
-  <img src="kobeni.gif" align="left" height="16" width="9"/>
+  <img src="kobeni.gif" align="left" height="48" width="27"/>
 </p>
 
 ###
