@@ -15,7 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsFeby&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFeby&layout=compact&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=itsFeby&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsFeby&theme=tokyo-night&radius=16&area=true" height="300" />
 </div>
 
 ###
