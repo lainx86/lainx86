@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,apple,cpp,c" height="60" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,apple,cpp,c" height="60" />
   <img src="https://skillicons.dev/icons?i=jetbrains,bash,neovim,octave,julia" height="60" />
 </p>
 
