@@ -1,7 +1,10 @@
 <h1 align="center">🤨</h1>
 
 <p align="center">
-  <img src="kobeni.gif" align="left" height="480" width="270" style="border: 3px solid #7aa2f7; border-radius: 10px;" />
+  <div style="display: inline-block; padding: 4px; background: linear-gradient(135deg, #7aa2f7, #bb9af7, #f7768e); border-radius: 12px;">
+    <img src="kobeni.gif" height="480" width="270" style="display: block; border-radius: 8px;" />
+  </div>
+
   <img src="https://skillicons.dev/icons?i=py,apple,cpp,c" height="60" style="border: 2px solid #7aa2f7; border-radius: 8px; padding: 4px; background-color: #1a1b27;" />
   <img src="https://skillicons.dev/icons?i=jetbrains,bash,neovim,octave,julia" height="60" style="border: 2px solid #7aa2f7; border-radius: 8px; padding: 4px; background-color: #1a1b27;" />
 </p>
