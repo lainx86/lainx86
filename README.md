@@ -6,9 +6,6 @@
   <img src="kobeni.gif" align="left" />
 </p>
 
-
-###
-
 ###
 
 <div align="center">
