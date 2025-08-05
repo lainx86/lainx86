@@ -1,5 +1,3 @@
-<h1 align="center">🤨</h1>
-
 <p align="center">
   <img src="kobeni_border_whitebg.gif" align="left" height="480" width="270"/>
   <img src="https://skillicons.dev/icons?i=py,apple,cpp,c" height="60" /><br/>
