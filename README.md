@@ -1,9 +1,9 @@
 <h1 align="center">🤨</h1>
-<img src="archbtw.gif" align="left" />
 ###
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,apple,cpp,c,jetbrains,bash,neovim,octave,julia" height="60" />
+  <img src="kobeni.gif" align="left" />
 </p>
 
 
