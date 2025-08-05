@@ -1,5 +1,4 @@
 <h1 align="center">🤨</h1>
-###
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,apple,cpp,c,jetbrains,bash,neovim,octave,julia" height="60" />
