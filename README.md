@@ -16,10 +16,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsFeby&layout=compact&theme=tokyonight&hide_border=false" height="150" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <img src="job_application.jpeg" height="480" width="270" />
-      </td>
-    </tr>
   </table>
 </div>
