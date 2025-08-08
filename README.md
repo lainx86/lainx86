@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>
-        <img src="job_application.jpeg" height="150" />
+        <img src="job_application.jpeg" height="480" width="270" />
       </td>
     </tr>
     <tr>
