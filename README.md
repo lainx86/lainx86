@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=itsFeby&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
+        <img src="job_application.jpeg" height="150" />
       </td>
     </tr>
     <tr>
