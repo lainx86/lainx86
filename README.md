@@ -6,8 +6,8 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=py,matlab,cpp,c,rust" height="60" /><br/>
-          <img src="https://skillicons.dev/icons?i=jetbrains,bash,neovim,octave,julia" height="60" />
+          <img src="https://skillicons.dev/icons?i=py,matlab,cpp,c" height="60" /><br/>
+          <img src="https://skillicons.dev/icons?i=jetbrains,bash,neovim,octave,rust" height="60" />
         </p>
       </td>
     </tr>
