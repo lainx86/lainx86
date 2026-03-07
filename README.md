@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lainx86&layout=compact&theme=tokyonight" height="150" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lainx86&theme=tokyonight" height="150" />
       </td>
     </tr>
   </table>
