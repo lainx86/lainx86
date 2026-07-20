@@ -6,7 +6,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="wony.png" height="60"
+          <img src="wony.png"
             width="320"
             alt="Banner"
           /><br/>
