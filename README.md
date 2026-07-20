@@ -4,7 +4,7 @@
       <td align="center">
         <img
           src="feby.png"
-          height="450"
+          height="320"
           alt="Kobeni"
         />
       </td>
