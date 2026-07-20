@@ -3,7 +3,7 @@
     <tr>
       <td align="center">
         <img
-          src="kobeni_border_whitebg.gif"
+          src="feby.png"
           width="270"
           alt="Kobeni"
         />
