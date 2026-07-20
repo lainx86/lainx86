@@ -1,21 +1,30 @@
 <div align="center">
   <table>
     <tr>
-      <td rowspan="3">
-        <img src="kobeni_border_whitebg.gif" height="480" width="270" />
+      <td rowspan="2" valign="middle" align="center">
+        <img
+          src="kobeni_border_whitebg.gif"
+          width="270"
+          alt="Kobeni"
+        />
       </td>
-      <td>
-        <p align="center">
-          <img src="wony.png"
-            width="320"
-            alt="Banner"
-          /><br/>
-        </p>
+
+      <td align="center" valign="middle">
+        <img
+          src="wony.png"
+          width="320"
+          alt="Wony"
+        />
       </td>
     </tr>
+
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lainx86&theme=tokyonight" height="150" />
+      <td align="center" valign="middle">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lainx86&theme=tokyonight"
+          width="320"
+          alt="Top Languages by Commit"
+        />
       </td>
     </tr>
   </table>
