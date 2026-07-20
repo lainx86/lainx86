@@ -11,7 +11,7 @@
       <td align="center" valign="bottom">
         <img
           src="wony.png"
-          height="350"
+          height="300"
           alt="Wony"
         />
       </td>
