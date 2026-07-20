@@ -1,14 +1,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" valign="bottom">
         <img
           src="feby.png"
           width="270"
           alt="Kobeni"
         />
       </td>
-      <td align="center">
+      <td align="center" valign="bottom">
         <img
           src="wony.png"
           height="450"
