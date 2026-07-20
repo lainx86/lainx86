@@ -6,8 +6,10 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=py,matlab,cpp,c" height="60" /><br/>
-          <img src="https://skillicons.dev/icons?i=jetbrains,bash,neovim,octave,linux" height="60" />
+          <img src="wony.png" height="60"
+            width="320"
+            alt="Banner"
+          /><br/>
         </p>
       </td>
     </tr>
