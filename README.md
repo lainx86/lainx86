@@ -5,7 +5,7 @@
         <img
           src="feby.png"
           width="170"
-          alt="Kobeni"
+          alt="Feby"
         />
       </td>
       <td align="center" valign="bottom">
@@ -17,9 +17,9 @@
       </td>
       <td rowspan="2" align="center" valign="middle">
         <img
-          src="foto-baru.png"
+          src="kobeni_border_whitebg.gif"
           height="450"
-          alt="Foto Baru"
+          alt="Kobeni"
         />
       </td>
     </tr>
