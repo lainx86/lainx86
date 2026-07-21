@@ -15,6 +15,13 @@
           alt="Wony"
         />
       </td>
+      <td rowspan="2" align="center" valign="middle">
+        <img
+          src="foto-baru.png"
+          height="450"
+          alt="Foto Baru"
+        />
+      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
